@@ -1,0 +1,89 @@
+<section>
+  <h1>
+    <a href='https://github.com/mbostock/stack'>stack.js</a>
+  </h1>
+  <p>A presentation library with intuitive, scroll-based navigation.</p>
+  <p class='bottom'>
+    Built with
+    <a href='http://mbostock.github.com/d3/'>d3.js</a>
+  </p>
+</section>
+<section>
+  <h1>Crossfades</h1>
+  <p>Sneak a peek at the next slide by scrolling down and back.</p>
+</section>
+<section>
+  <h1 class='bottom'>PEEK-A-BO! I see you!</h1>
+</section>
+<section class='beach'>
+  <h1 class='bottom white'>Variable-width Slides</h1>
+</section>
+<section>
+  <h1>
+    Scroll-Happy
+  </h1>
+  <p>
+    Scroll many slides at once with a flick of the wrist.
+    <br>Or, grab the scrollbar on the slide and jump around.</br>
+  </p>
+</section>
+<section class='big'>
+  <h1>9</h1>
+</section>
+<section class='big'>
+  <h1>8</h1>
+</section>
+<section class='big'>
+  <h1>7</h1>
+</section>
+<section class='big'>
+  <h1>6</h1>
+</section>
+<section class='big'>
+  <h1>5</h1>
+</section>
+<section class='big'>
+  <h1>4</h1>
+</section>
+<section class='big'>
+  <h1>3</h1>
+</section>
+<section class='big'>
+  <h1>2</h1>
+</section>
+<section class='big'>
+  <h1>1</h1>
+</section>
+<section>
+  <h1>Snap-to Scrolling</h1>
+  <p>If you stop between slides, the stack will drift to the closest slide.</p>
+</section>
+<section>
+  <h1>Edge Detection</h1>
+  <p>
+    If you scroll up, the previous slide is immediately visible.
+    <br>If you scroll down, the next slide is immediately visible.</br>
+  </p>
+  <p>
+    (This would be more robust if WebKit supported touch events!)
+  </p>
+</section>
+<section>
+  <h1>Keyboard Shortcuts</h1>
+  <p>
+    up / down / left / right
+    <br>page up / page down</br>
+    <br>home / end</br>
+    <br>space / shift-space</br>
+  </p>
+  <p>Press up or down multiple times, and it does the right thing!</p>
+</section>
+<section>
+  <h1>More Features! [to-do]</h1>
+  <p>
+    Zoom-out overview?
+    <br>Anchor fragments.</br>
+    <br>Auto-loading iframes for resource-expensive slides.</br>
+    <br>iOS & non-WebKit browser testing.</br>
+  </p>
+</section>
