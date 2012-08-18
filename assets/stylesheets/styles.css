@@ -51,3 +51,11 @@ body {
 
 .uxcamphh {
   background: url(../media/UXC_Logo_Final.png) no-repeat center center fixed #ffef82; }
+
+.sponsors {
+  text-align: center; }
+  .sponsors img {
+    width: 60%; }
+
+.center {
+  text-align: center; }
